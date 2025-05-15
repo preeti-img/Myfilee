@@ -1,0 +1,39 @@
+.heading{
+    color: #14A;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 1rem;
+}
+.onehead{
+    font-weight: 700;
+}
+.para{
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    margin-top: 1rem;
+}
+.col-5 div{
+    margin-top: 1rem;
+}
+/* ------------------------------------secapp.jsx-------------------------- */
+.containerr-fluid{
+    background-color: #000435;
+    color: white;
+    padding: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 1.5rem;
+}
+.containerr-fluid div h1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+    margin: 0;
+}
+.containerr-fluid div p{
+font-size: 16px;
+text-align: center;
+margin: 0;    
+}

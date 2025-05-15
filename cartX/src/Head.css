@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #000435 !important;
+    --bs-navbar-padding-x: 1.5rem;
+    position: sticky !important;
+    z-index: 1;
+    left: 0;
+    top: 0;
+}
+.nav-link{
+color: white !important;
+font-weight: 700;
+padding: 1.5rem !important;
+font-size: 18px !important;
+}
+.nav-link:hover{
+    color: blueviolet !important;
+}
+.navbar-brand{
+    padding-right: 25px !important;
+    padding-left: 15px;
+}
+.btn-primary{
+    background-color: white !important;
+    color: #000435 !important;
+}
